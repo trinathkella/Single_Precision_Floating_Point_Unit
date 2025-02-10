@@ -1,0 +1,5 @@
+QuestaSim qverilog 10.1d Compiler 2012.11 Nov  1 2012
+C:\questasim_10.1d\win32\qverilog.exe tb_top.sv 
+** Note: (qverilog-2286) Using implicit +incdir+C:/questasim_10.1d/uvm-1.1c/../verilog_src/uvm-1.1c/src from import uvm_pkg
+-- Compiling interface add_sub_interface
+** Error: tb_top.sv(7): (qverilog-2730) Undefined variable: 'DATA_WIDTH'.

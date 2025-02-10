@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jan 31 15:44:04 2025
+# Process ID: 9036
+# Current directory: C:/Users/dvlsi/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10616 C:\Users\dvlsi\Documents\Digital_Design_of_Floating_Point_Unit_Arithmetics\xilinx vivado files\xilinx vivado files.xpr
+# Log file: C:/Users/dvlsi/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files/vivado.log
+# Journal file: C:/Users/dvlsi/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/dvlsi/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files/xilinx vivado files.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+refresh_design
+create_project priority_encoder C:/Users/dvlsi/priority_encoder -part xc7a35tcpg236-1
+file mkdir C:/Users/dvlsi/priority_encoder/priority_encoder.srcs/sources_1/new
+close [ open C:/Users/dvlsi/priority_encoder/priority_encoder.srcs/sources_1/new/priority_encoder.v w ]
+add_files C:/Users/dvlsi/priority_encoder/priority_encoder.srcs/sources_1/new/priority_encoder.v
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+close_project

@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/addition_control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addition_control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addition_stage1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addition_stage2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addition_stage3
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addition_stage4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/source_code/floating_point_addition.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module floating_point_addition
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/students/Documents/Digital_Design_of_Floating_Point_Unit_Arithmetics/32-bit_single_precision_floating_point_arithmetics/sim/tb_floating_point_addition.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_floating_point_addition

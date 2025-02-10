@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/addition_control_unit.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage1.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage2.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage3.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/addition_stage4.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/source_code/floating_point_addition.v" \
+"../../../../../32-bit_single_precision_floating_point_arithmetics/sim/tb_floating_point_addition.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

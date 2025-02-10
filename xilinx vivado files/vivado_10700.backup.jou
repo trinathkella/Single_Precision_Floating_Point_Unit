@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan  7 13:10:21 2025
+# Process ID: 10700
+# Current directory: C:/Users/dvlsi/Documents/CDAC PROJECT/xilinx_vivado/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2180 C:\Users\dvlsi\Documents\CDAC PROJECT\xilinx_vivado\Digital_Design_of_Floating_Point_Unit_Arithmetics\xilinx vivado files\xilinx vivado files.xpr
+# Log file: C:/Users/dvlsi/Documents/CDAC PROJECT/xilinx_vivado/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files/vivado.log
+# Journal file: C:/Users/dvlsi/Documents/CDAC PROJECT/xilinx_vivado/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/dvlsi/Documents/CDAC PROJECT/xilinx_vivado/Digital_Design_of_Floating_Point_Unit_Arithmetics/xilinx vivado files/xilinx vivado files.xpr}
+update_compile_order -fileset sources_1
